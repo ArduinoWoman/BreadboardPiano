@@ -20,7 +20,7 @@ author: Tenaya Hurst - Arduino Woman
 
 #include "pitches.h"
 
-int tonepin = 9;  // PWM0 output = 9, PWM1 output = 10
+int tonepin = 8;  // Pin 8 easiest to match up with other Piezo codes//
 
 
 // these are the "piano keys" - they are just input pins
